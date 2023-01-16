@@ -1,16 +1,6 @@
-# impoor
+# Chart
 
-A new Flutter project.
+https://blog.logrocket.com/how-create-flutter-charts-with-charts-flutter/
+https://google.github.io/charts/flutter/example/bar_charts/spark_bar?fbclid=IwAR2pTQDq4z_ilaRze65HY075BLSyaB9yBGZPCS81z2YQiyN1OmH7QIXfvM0
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- This project is about how to create Bar Chart in Flutter
